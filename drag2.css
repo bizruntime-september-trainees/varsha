@@ -1,0 +1,20 @@
+body{
+    background:white ;
+}
+.imgbox{
+    background-image : url('ban.jpg');
+    position: relative;
+    top:5px;
+    left:7px;
+    height: 270;
+    width: 280;
+    cursor: pointer;
+}
+.whitebox{
+    display:inline-block;
+    height: 300;
+width:300;
+margin:5px;
+background-color: white;
+border: 3px solid black;
+}
